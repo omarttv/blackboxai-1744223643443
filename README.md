@@ -4,22 +4,22 @@ Built by https://www.blackbox.ai
 ---
 
 ```markdown
-# AC Pro Services - Repair, Maintenance & Installation
+# Polar Bear AC Services - Trinidad's Premier HVAC Provider
 
 ## Project Overview
-AC Pro Services is a responsive web application designed to showcase the services offered by an HVAC company. The website highlights the company's capabilities in air conditioning repair, maintenance, and installation. With a clean, user-friendly interface built using HTML, CSS (Tailwind), and JavaScript, the application is optimized for both desktop and mobile devices, providing a seamless user experience.
+Polar Bear AC Services is a responsive website for Trinidad's leading air conditioning company with over 25 years of experience. The website showcases repair, maintenance, and installation services with a clean interface built using HTML, CSS (Tailwind), and JavaScript. Optimized for all devices with Trinidad-specific information.
 
 ## Installation
 To set up the project locally on your machine:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/ac-pro-services.git
+   git clone https://github.com/yourusername/polar-bear-ac.git
    ```
 
 2. **Navigate to the project directory**:
    ```sh
-   cd ac-pro-services
+   cd polar-bear-ac
    ```
 
 3. **Open `index.html` in your web browser**:
